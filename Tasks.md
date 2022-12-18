@@ -4,7 +4,7 @@
 * Your task is to code the index frontend.
 
 # 2- Methods
-* " X-Per-Ience / haidar-jbeily " is your repository, replace your "index.htm" with the one created by default.
+* " X-Per-Ience / haidar-jbeily " is your repository, replace the "index.htm" created by default with your own "index.htm" (normal upload will do replacement automatically).
 * You can setup your own folders in your own mindset, for example you can place all css files inside a directory "/css",... feel free.
 * When you use pictures or any resources please notice to use only free & open-to-use resources, and cite the source in HTML comments (i.e. link,..).
 
